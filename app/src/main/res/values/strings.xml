@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">La Liga 2018</string>
+
+    <!-- a traducir-->
+    <string name="GOOL" translatable="false">GOOL</string>
+    <string name="TARJETA_ROJA" translatable="false">TARJETA ROJA</string>
+    <string name="TARJETA_AMARILLA" translatable="false">TARJETA AMARILLA</string>
+</resources>

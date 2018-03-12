@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La Liga 2018</string>
+    <string name="TARJETA_ROJA" translatable="false">RED CARD</string>
+    <string name="TARJETA_AMARILLA" translatable="false">YELLOW CARD</string>
+    <string name="GOOL" translatable="false">GOAL</string>
+</resources>
